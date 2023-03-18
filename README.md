@@ -8,3 +8,5 @@ In this project, I explore the relationship between stock prices and the number 
 - Research external datasets for potential crime predictors like seasonality, historical data, economic indicators, and stock prices of companies headquartered in Boston. 
 - Develop Poisson models that can provide insights into heterogeneity in the number of assaults, along with a time-series-based crime prediction model.
 - Public safety institutions can use our models to predict the number of assaults in the future, and allocate resources for crime prevention and medical emergencies.
+
+Project Video: https://columbia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f97e66d4-9312-4b2b-b1bd-ae1600ef29df
